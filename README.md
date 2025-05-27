@@ -9,4 +9,3 @@ Até agora, aprendi como garantir a qualidade de software, executar testes, escr
 Sou dedicado, aprendo rápido e trabalho bem em equipe. No momento, estou em busca de uma oportunidade na área de QA para crescer profissionalmente, aplicar minhas habilidades e continuar aprendendo todos os dias.
 
 
-#   Certificados 
